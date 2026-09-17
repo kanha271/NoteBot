@@ -9,6 +9,9 @@ venv/
 # Streamlit
 .streamlit/
 
+# VS Code
+.vscode/
+
 # OS
 .DS_Store
 Thumbs.db
